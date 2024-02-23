@@ -22,9 +22,9 @@ const HeroSection = () => {
                                     // Same substring at the start will only be typed out once, initially
                                     'Yogesh More',
                                     1000, // wait 1s before replacing "Mice" with "Hamsters"
-                                    'Web Developer',
+                                    'Frontend Engineer',
                                     1000,
-                                    '2 Years Experience',
+                                    'CSS Expert',
                                     1000,
                                     'UI/UX Designer',
                                     1000
